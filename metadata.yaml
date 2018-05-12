@@ -1,0 +1,40 @@
+_repo: The-Call-Of-The-South1908_24895
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Becke, Louis
+    alias: Becke, George Louis
+    birthdate: 1855
+    deathdate: 1913
+    gutenberg_agent_id: '1317'
+    url: http://www.gutenberg.org/2009/agents/1317
+    wikipedia: http://en.wikipedia.org/wiki/George_Lewis_Becke
+description: ''
+gutenberg_issued: '2008-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Oceania -- Fiction'
+tableOfContents: 'Paul the diver -- The old sea life -- The blind man of Admiralty
+  Island -- Nisân Island: a tale of the old trading days -- Mutinies -- "Mâni" --
+  At night -- The cranks of the Julia brig -- "Dandy", the ship''s Dingo -- Kala-Hoi,
+  the netmaker -- The kanaka labour trade in the Pacific -- My friends, the Anthropophagi
+  -- On the "joys" of recruiting "blackbirds" -- Making a fortune in the South Seas
+  -- The story of Tokolmé -- "Lano-Tô" -- "Ombre Chevalier" -- A recluse of the bush
+  -- Te-Bari, the outlaw -- "The dandiest boy that ever stood up in a boat" -- The
+  pit of Maotâ -- Vanâki, the strong swimmer -- Two Pacific Islands birds -- A night
+  run across Fâgaloa Bay -- A bit of good luck -- Modern pirates -- Pautôe -- The
+  man who knew everything -- The pattering of the mullet.'
+title: 'The Call Of The South
+
+  1908'
+url: http://www.gutenberg.org/ebooks/24895
